@@ -4,7 +4,7 @@ A small sandbox repo for practicing the pull request workflow on GitHub: branch,
 
 ## What this is for
 
-This repo exists so its owner can practice the full flow of proposing a change and merging it, seperate from any real project. Feel free to look around, but there isn't any actual application code here yet.
+This repo exists so its owner can practice the full flow of proposing a change and merging it, separate from any real project. Feel free to look around, but there isn't any actual application code here yet.
 
 ## Workflow
 
